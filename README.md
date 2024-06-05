@@ -20,5 +20,5 @@ This is a task management web application built using Next.js, MobX, MobX React 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/ASADFi/task-management-app.git
+git clone https://github.com/ASADFi/Task-management-app.git
 cd task-management-app
